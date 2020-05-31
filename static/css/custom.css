@@ -7,3 +7,15 @@ body {
 .header__container {
     background-color: #686444;
 }
+
+.logo {
+    float: inline-end;
+}
+
+.logo__item {
+    vertical-align: bottom;
+}
+
+.logo__img {
+    width: 96px;
+}
