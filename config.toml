@@ -1,0 +1,52 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+paginate = "10" # Number of posts per page
+title = "dCache.org"
+theme = "mainroad"
+
+disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
+googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+
+[Params]
+  subtitle = "" # Deprecated in favor of .Site.Params.logo.subtitle
+  description = "John Doe's Personal blog about everything" # Site description. Used in meta description
+  copyright = "dCache.org" # Footer copyright holder, otherwise will use site title
+  opengraph = true # Enable OpenGraph if true
+  schema = true # Enable Schema
+  twitter_cards = true # Enable Twitter Cards if true
+  readmore = false # Show "Read more" button in list if true
+  authorbox = false
+  toc = false # Enable Table of Contents
+  pager = false # Show pager navigation (prev/next links) at the bottom of pages if true
+  post_meta = ["date", "categories"] # Order of post meta information
+  mainSections = ["post", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
+  dateformat = "2006-01-02" # Change the format of dates
+  mathjax = true # Enable MathJax
+  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
+  mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
+  highlightColor = "#8cc890" # Override highlight color
+  customCSS = ["css/custom.css"] # Include custom CSS files
+  customJS = ["js/custom.js"] # Include custom JS files
+
+[Params.logo]
+  image = "img/dCache-logo.png" # Logo image. Path relative to "static"
+  title = "dCache.org" # Logo title, otherwise will use site title
+  subtitle = "distributed storage for scientific data" # Logo subtitle
+
+[Params.sidebar]
+  home = "right" # Configure layout for home page
+  list = "left"  # Configure layout for list pages
+  single = false # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["recent", "categories", "sidemenu", "taglist"]
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget
+
+[Params.widgets.social]
+  github = "dCache"
+  
+[[Params.widgets.social.custom]]
+  title = "dCache.org"
+  url = "htps://dcache.org"
