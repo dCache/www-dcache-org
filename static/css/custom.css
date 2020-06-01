@@ -14,8 +14,18 @@ body {
 
 .logo__item {
     vertical-align: bottom;
+    text-transform: none;
 }
 
 .logo__img {
     width: 96px;
+}
+
+.widget-taglist__link {
+    text-transform: none;
+}
+
+.btn {
+    border-radius: 20px;
+    background-color: #686444;
 }
