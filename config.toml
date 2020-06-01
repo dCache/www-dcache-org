@@ -8,8 +8,7 @@ disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Params]
-  subtitle = "" # Deprecated in favor of .Site.Params.logo.subtitle
-  description = "John Doe's Personal blog about everything" # Site description. Used in meta description
+  description = "Life around dCache" # Site description. Used in meta description
   copyright = "dCache.org" # Footer copyright holder, otherwise will use site title
   opengraph = true # Enable OpenGraph if true
   schema = true # Enable Schema
