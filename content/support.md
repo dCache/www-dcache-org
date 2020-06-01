@@ -2,7 +2,7 @@
 title: "Support"
 draft: false
 menu: main
-weight: 2
+weight: 4
 ---
 
 # dCache.org issue tracking system
