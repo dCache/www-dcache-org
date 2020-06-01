@@ -34,7 +34,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Params.sidebar]
   home = "right" # Configure layout for home page
-  list = "left"  # Configure layout for list pages
+  list = "right"  # Configure layout for list pages
   single = false # Configure layout for single pages
   # Enable widgets in given order
   widgets = ["recent", "categories", "sidemenu", "taglist"]
@@ -49,3 +49,4 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 [[Params.widgets.social.custom]]
   title = "dCache.org"
   url = "htps://dcache.org"
+
