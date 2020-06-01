@@ -1,0 +1,37 @@
+{{ define "main" }}
+
+<main class="main" role="main">
+	<article class="release">
+		<header class="release__header">
+			<h1 class="release__title">Release: {{ .Params.version }}</h1>
+		</header>
+
+        <div class="release__link">
+
+            <table class="release_packages_table">
+                <tr><th>Package</th><th>Download link</th><th>Checksum</th></tr>
+
+            {{ range $p := .Params.packages }}
+                <tr>
+                    <td>
+                       dCache - {{$.Params.version}} ({{$p.type }})
+                    </td>
+                    <td>
+                        <a class="link" href="{{$.Params.url_base}}/{{$.Params.series_base}}/{{ $p.filename }}">{{ $p.filename }}</a>
+                    </td>
+                    <td>
+                        {{ $p.checksum }}
+                    </td>
+                </tr>
+            {{ end }}
+            </table>
+
+        </div>
+
+        <div class="content release__content clearfix">
+			{{ .Content }}
+		</div>
+	</article>
+</main>
+
+{{ end }}

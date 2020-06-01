@@ -62,6 +62,52 @@ weight: 1
 
 Remove `date` front matter from the regular pages to avoid extra header with timestamp.
 
+## Adding release
+
+To add a new release run:
+```
+$ hugo new release/release-6.1.4.md
+```
+or create the corresponding file in `content/release/` directory. The release must have the following front matters defined:
+
+- version - the version number
+- series_base
+- url_base
+- packages
+
+For example:
+
+```yaml
+---
+title: "Release 6.1.4"
+date: 2020-06-02T00:17:15+02:00
+draft: true
+date: 2020-06-01T22:42:28+02:00
+version: "6.1.4"
+series_base: "6.1"
+url_base: "https://www.dcache.org/downloads/1.9/repo"
+packages:
+    -
+        type: "rpm"
+        filename: "dcache-6.1.4-1.noarch.rpm"
+        checksum: "772408613df65e8d353a51fe8aa913e9"
+    -
+        type: "deb"
+        filename: "dcache_6.1.4-1_all.deb"
+        checksum: "0fb637f7dcd158bfd92dcd9b9c56a1e6"
+    -
+        type: "tgz"
+        filename: "dcache-6.1.4.tar.gz"
+        checksum: "145f1d9b578adb508eefe8d64a55fadc"
+---
+```
+
+The download url constructed as:
+
+```sh
+${url_base}/${series_base}/${filename}
+```
+
 ## Page template and layout
 
 The dCache pages use [Mainroad](https://github.com/Vimux/Mainroad) template. The template ins enabled as submodule. To override template, copy desired file from the template directory into the same locatio in the project. For example, to customize the behavoir of `logo.html`
