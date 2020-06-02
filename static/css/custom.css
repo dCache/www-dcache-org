@@ -1,11 +1,15 @@
 
-
 body {
-    background-color: darkgrey;
+    background-color:#ece9e6;
+    color: #4c4e50;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #222831;
 }
 
 .header__container {
-    background-color: #686444;
+    background-color: rgba(227,81,60,.05);
 }
 
 .logo {
@@ -17,6 +21,14 @@ body {
     text-transform: none;
 }
 
+.logo__title {
+    color: #4c4e50;
+}
+
+.logo__tagline {
+    border-top-color: #222831;
+}
+
 .logo__img {
     width: 96px;
 }
@@ -26,6 +38,18 @@ body {
 }
 
 .btn {
-    border-radius: 20px;
-    background-color: #686444;
+    border-radius: 10px;
+    background-color: #222831;
+}
+
+.menu__list {
+    background: #222831;
+}
+
+.menu__text {
+    text-transform: capitalize;
+}
+
+.footer {
+    background: #222831 ;
 }
