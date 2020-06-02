@@ -28,7 +28,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   customJS = ["js/custom.js"] # Include custom JS files
 
 [Params.logo]
-  image = "img/dCache-logo.png" # Logo image. Path relative to "static"
+  image = "img/dCache-logo.svg" # Logo image. Path relative to "static"
   title = "dCache.org" # Logo title, otherwise will use site title
   subtitle = "distributed storage for scientific data" # Logo subtitle
 
