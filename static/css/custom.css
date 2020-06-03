@@ -14,6 +14,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .logo {
     float: initial;
+    padding: 16px;
 }
 
 .logo__item {
