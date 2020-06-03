@@ -47,6 +47,10 @@ h1, h2, h3, h4, h5, h6 {
     background: #222831;
 }
 
+.menu__link {
+    padding: .5rem .8rem;
+}
+
 .menu__text {
     text-transform: capitalize;
 }
