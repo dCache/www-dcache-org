@@ -13,7 +13,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .logo {
-    float: inline-end;
+    float: initial;
 }
 
 .logo__item {
@@ -30,7 +30,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .logo__img {
-    width: 96px;
+    width: 84px;
 }
 
 .widget-taglist__link {
