@@ -108,6 +108,16 @@ The download url constructed as:
 ${url_base}/${series_base}/${filename}
 ```
 
+## Adding Documentation article
+
+To add new documentation article, simply add a new file into documnetation folder, like:
+
+```
+hugo new documentation/zone-setup.md
+```
+
+A permanent, top level info can go into `documentation/_index.md`
+
 ## Page template and layout
 
 The dCache pages use [Mainroad](https://github.com/Vimux/Mainroad) template. The template ins enabled as submodule. To override template, copy desired file from the template directory into the same locatio in the project. For example, to customize the behavoir of `logo.html`
