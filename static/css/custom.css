@@ -1,6 +1,6 @@
 
 body {
-    background-color:#ece9e6;
+    background-color: white;
     color: #4c4e50;
 }
 
@@ -9,7 +9,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .header__container {
-    background-color: rgba(227,81,60,.05);
+    background-color: #403c38;
 }
 
 .logo {
@@ -23,11 +23,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .logo__title {
-    color: #222831;
+    color: #eaeaea;
+    font-weight: unset;
 }
 
 .logo__tagline {
-    border-top-color: #222831;
+    border-top-color: #4c4e50;
+    font-weight: unset;
 }
 
 .logo__img {
@@ -41,14 +43,17 @@ h1, h2, h3, h4, h5, h6 {
 .btn {
     border-radius: 10px;
     background-color: #222831;
+    font-weight: unset;
 }
 
 .menu__list {
-    background: #222831;
+    background: #403c38;
 }
 
 .menu__link {
-    padding: .5rem .8rem;
+    padding: .5rem .9rem;
+    /*color: #4c4e50;*/
+    font-weight: unset;
 }
 
 .menu__text {
@@ -61,4 +66,16 @@ h1, h2, h3, h4, h5, h6 {
 
 .footer a {
     color: #999;
+}
+
+.container {
+    position: relative;
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.wrapper {
+    margin-left: 20%;
+    margin-right: 20%;
 }
