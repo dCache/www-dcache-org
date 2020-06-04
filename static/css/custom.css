@@ -58,3 +58,7 @@ h1, h2, h3, h4, h5, h6 {
 .footer {
     background: #222831 ;
 }
+
+.footer a {
+    color: #999;
+}

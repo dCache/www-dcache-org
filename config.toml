@@ -50,3 +50,10 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   title = "dCache.org"
   url = "htps://dcache.org"
 
+[[Menu.footer]]
+  name = "Data Privacy Policy"
+  url = "https://www.desy.de/data_privacy_policy/index_eng.html"
+
+[[Menu.footer]]
+  name = "Imprint"
+  url = "https://www.desy.de/imprint/index_eng.html"
