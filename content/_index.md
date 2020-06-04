@@ -5,7 +5,7 @@ menu: main
 weight: 1
 ---
 
-# Screenshot from dCache workshop
+## Screenshot from dCache workshop
 
 ![workshop sreenshot][screenshot]
 
