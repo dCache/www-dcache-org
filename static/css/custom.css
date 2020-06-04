@@ -79,3 +79,7 @@ h1, h2, h3, h4, h5, h6 {
     margin-left: 20%;
     margin-right: 20%;
 }
+
+.tags__item {
+    border-radius: 10px;
+}
