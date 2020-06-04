@@ -14,7 +14,7 @@
             {{ range $p := .Params.packages }}
                 <tr>
                     <td>
-                       dCache - {{$.Params.version}} ({{$p.type }})
+                        {{ $.Params.package }} - {{$.Params.version}} ({{$p.type }})
                     </td>
                     <td>
                         <a class="link" href="{{$.Params.url_base}}/{{$.Params.series_base}}/{{ $p.filename }}">{{ $p.filename }}</a>
@@ -28,8 +28,12 @@
 
         </div>
 
+        <div class="content release__notes clearfix">
+            <a class="link" href="{{ $.Params.notes }}">Release Notes</a>
+        </div>
+
         <div class="content release__content clearfix">
-			{{ .Content }}
+            {{ .Content }}
 		</div>
 	</article>
 </main>
