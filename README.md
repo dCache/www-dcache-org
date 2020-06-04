@@ -6,18 +6,12 @@ The static pages based on [Hugo](https://gohugo.io)
 
 ### Adding new page
 
-To add a new page/post/news use `hugo new` command:
+To add a new page/post use `hugo new` command:
 
-For news:
-
-```
-$ hugo new news/workshop.md
-```
-
-Fore post:
+For post:
 
 ```
-$ hugo new news/workshop.md
+$ hugo new post/workshop.md
 ```
 
 or for a page
@@ -26,7 +20,7 @@ or for a page
 $ hugo new apage.md
 ```
 
-The new elements are created relative to `content` directory. Special [front matter](https://gohugo.io/content-management/front-matter/) can be used to control page/post behavior. For news and posts:
+The new elements are created relative to `content` directory. Special [front matter](https://gohugo.io/content-management/front-matter/) can be used to control page/post behavior. For posts:
 
 - tags
 - categories
