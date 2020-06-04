@@ -7,7 +7,7 @@ categories: ["info"]
 ---
 
 After almost two decade, dCache.org web content have migrated from regular
-html pages written by hand to moder static site generator banes on [hugo](https://gohugo.io).
+html pages written by hand to modern static site generator banes on [hugo](https://gohugo.io).
 
-This chagne will simpleify maintenace of the web paces and let developers to keep
-the content up-to-date. The source code of the pages avaliable on the github.
+This change will simplify the maintenance of the web paces and let developers to keep
+the content up-to-date. The source code of the pages available on the github.

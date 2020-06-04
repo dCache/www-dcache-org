@@ -26,7 +26,7 @@ or for a page
 $ hugo new apage.md
 ```
 
-The new alaments are created relative to `content` directory. Special [front matter](https://gohugo.io/content-management/front-matter/) can be used to control page/post behavior. For news and posts:
+The new elements are created relative to `content` directory. Special [front matter](https://gohugo.io/content-management/front-matter/) can be used to control page/post behavior. For news and posts:
 
 - tags
 - categories
@@ -43,14 +43,14 @@ categories: ["workshop"]
 ---
 ```
 
-> Note: posts are created with front matter `draft` test to `true`. To make posts visible is have to be update to `false` or start hugo with flag `--buildDrafts` to build site with darf posts.
+> Note: posts are created with front matter `draft` test to `true`. To make posts visible is have to be update to `false` or start hugo with flag `--buildDrafts` to build site with draft posts.
 
 The regular pages have:
 
 - menu
 - weight
 
-that tells hugo tu include page into top menu and control the position. The `weight` is an increasing numner and controls the position from left-to-right. Example:
+that tells hugo to include page into top menu and control the position. The `weight` is an increasing number and controls the position from left-to-right. Example:
 
 ```yaml
 ---
@@ -110,7 +110,7 @@ ${url_base}/${series_base}/${filename}
 
 ## Adding Documentation article
 
-To add new documentation article, simply add a new file into documnetation folder, like:
+To add new documentation article, simply add a new file into documentation folder, like:
 
 ```
 hugo new documentation/zone-setup.md
@@ -120,7 +120,7 @@ A permanent, top level info can go into `documentation/_index.md`
 
 ## Page template and layout
 
-The dCache pages use [Mainroad](https://github.com/Vimux/Mainroad) template. The template ins enabled as submodule. To override template, copy desired file from the template directory into the same locatio in the project. For example, to customize the behavoir of `logo.html`
+The dCache pages use [Mainroad](https://github.com/Vimux/Mainroad) template. The template ins enabled as submodule. To override template, copy desired file from the template directory into the same location in the project. For example, to customize the behavior of `logo.html`
 
 ```
 $ cp themes/Mainroad/layouts/partials/logo.html layouts/partials/logo.html
