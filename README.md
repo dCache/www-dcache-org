@@ -2,7 +2,36 @@
 
 The static pages based on [Hugo](https://gohugo.io)
 
+## Bootstrap the site
+
+Clone repo into a local directory:
+
+```
+$ git clone --recurse-submodules git@github.com:kofemann/www-dcache-org.git
+$ cd www-dcache-org
+```
+
 ## Working with Hugo
+
+First of all you need the hugo binary from the project [release page](https://github.com/gohugoio/hugo/releases).
+
+Start the local server:
+
+```
+$ hugo server -D
+```
+
+The `-D` flags tells hugo to render draft pages as well. To generate static pages in the web server root directory:
+
+```
+$ hugo -d </path/to/root/dir>
+```
+
+or
+
+```
+$ hugo --cleanDestinationDir -b https://dcache.org/ -d /var/www/htdocs
+```
 
 ### Adding new page
 
