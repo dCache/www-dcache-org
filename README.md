@@ -7,7 +7,7 @@ The static pages based on [Hugo](https://gohugo.io)
 Clone repo into a local directory:
 
 ```
-$ git clone --recurse-submodules git@github.com:kofemann/www-dcache-org.git
+$ git clone --recurse-submodules https://github.com/dCache/www-dcache-org.git
 $ cd www-dcache-org
 ```
 
