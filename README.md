@@ -155,7 +155,6 @@ $ cp themes/Mainroad/layouts/partials/logo.html layouts/partials/logo.html
 
 The middle of the main page has a promotion section that is always on top of the news feed. The content of the promotion is taken from `_index.md` file.
 
-
 ### Custom css
 
-The look and feel pf the page can be modified by `css` located in `static/css/custom.css` file.
+The look and feel of the pages can be adjusted by `css` located in `static/css/custom.css` file.
