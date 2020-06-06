@@ -5,7 +5,6 @@ draft: false
 date: 2020-06-01T22:42:28+02:00
 package: dCache
 version: "6.1.4"
-series_base: "6.1"
 url_base: "https://www.dcache.org/downloads/1.9/repo"
 notes: "https://www.dcache.org/downloads/1.9/release-notes-6.1.shtml"
 packages:
