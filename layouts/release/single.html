@@ -28,13 +28,25 @@
 
         </div>
 
-        <div class="content release__notes clearfix">
-            <a class="link" href="{{ $.Params.notes }}">Release Notes</a>
+        {{ with partial "post_meta.html" . -}}
+        <div class="post__meta meta">{{ . }}</div>
+        {{- end }}
+
+        <div class="post__toc toc">
+            <div class="toc__title">Changes</div>
+            <div class="toc__menu">
+                {{ .TableOfContents }}
+            </div>
         </div>
 
         <div class="content release__content clearfix">
             {{ .Content }}
-		</div>
+        </div>
+
+        <div class="content release__notes clearfix">
+            <a class="link" href="{{ $.Params.notes }}">Full Release Notes</a>
+        </div>
+
 	</article>
 </main>
 
