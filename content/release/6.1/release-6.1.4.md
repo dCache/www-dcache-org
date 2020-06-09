@@ -25,9 +25,17 @@ packages:
 ## frontend
 
 The frontend’s inotify-over-SSE now honour the ‘frontend.root’ configuration property and any user-specific root. This means that, for any inotify subscription, the path is calculated relative to the doors’ root and the user-specific root. For many dCache sites, this has no impact as they are using the default for both; however, the user root is used to implement the macaroon’s ‘root’ caveat. The current release fixed how inotify subscription requests are processed when made with a macaroon with a ‘root’ caveat.
-
+<!--more-->
 ## pool
 
 When making an HTTP third-party copy (HTTP-TPC), dCache no longer sends the ‘Authorization’ HTTP request header in any subsequent request when the remote server responds with a redirection.
 
 The unix xrootd tpc security plugin was included in order to enable the dCache TPC client to use a dCache pool as source when signed hash verification is on. However, this is now fixed and no special configuration necessary for organizations (like Tier 1) needing to communicate with EOS.
+
+## NFS
+
+fix all crap
+
+## DCAP
+
+still alive
