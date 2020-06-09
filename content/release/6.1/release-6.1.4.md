@@ -31,11 +31,3 @@ The frontend’s inotify-over-SSE now honour the ‘frontend.root’ configurati
 When making an HTTP third-party copy (HTTP-TPC), dCache no longer sends the ‘Authorization’ HTTP request header in any subsequent request when the remote server responds with a redirection.
 
 The unix xrootd tpc security plugin was included in order to enable the dCache TPC client to use a dCache pool as source when signed hash verification is on. However, this is now fixed and no special configuration necessary for organizations (like Tier 1) needing to communicate with EOS.
-
-## NFS
-
-fix all crap
-
-## DCAP
-
-still alive
