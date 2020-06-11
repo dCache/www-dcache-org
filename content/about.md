@@ -1,7 +1,6 @@
 ---
 title: About us
 draft: false
-date: 2019-04-25
 menu: main
 weight: 5
 ---
