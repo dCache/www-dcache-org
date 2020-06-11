@@ -2,7 +2,6 @@
 title: "Release 6.1.4"
 date: 2020-06-02T00:17:15+02:00
 draft: false
-date: 2020-06-01T22:42:28+02:00
 package: dCache
 version: "6.1.4"
 url_base: "https://www.dcache.org/downloads/1.9/repo"
