@@ -20,7 +20,7 @@ dCache is a joint venture between the Deutsches Elektronen-Synchrotron, [DESY](h
 
 ### PROJECT STATUS
 
-Since end of 2001 our full production release is in use at an increasing number of sites world-wide and is delivering tera bytes of data from over hundreds of distributed server nodes.
+Since end of 2001 our full production release is in use at an increasing number of sites world-wide and is delivering terabytes of data from over hundreds of distributed server nodes.
 
 ### INFO - Contact
 
