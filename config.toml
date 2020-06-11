@@ -7,6 +7,11 @@ theme = "mainroad"
 disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"
+
 [Params]
   description = "Life around dCache" # Site description. Used in meta description
   copyright = "dCache.org" # Footer copyright holder, otherwise will use site title
@@ -37,7 +42,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   list = "right"  # Configure layout for list pages
   single = true # Configure layout for single pages
   # Enable widgets in given order
-  widgets = ["recent", "categories", "sidemenu", "taglist"]
+  widgets = ["recent", "categories", "sidemenu", "taglist", "series"]
 
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
