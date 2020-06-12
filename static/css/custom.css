@@ -79,9 +79,41 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0 auto;
 }
 
-.wrapper {
-    margin-left: 20%;
-    margin-right: 20%;
+
+/* adjust frame margin based on screen size */
+@media screen and (min-width: 1475px) {
+    .wrapper {
+        margin-left: 20%;
+        margin-right: 20%;
+    }
+}
+
+@media screen and (max-width: 1475px) {
+    .wrapper {
+        margin-left: 15%;
+        margin-right: 15%;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .wrapper {
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .wrapper {
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+}
+
+@media screen and (max-width: 620px) {
+    .wrapper {
+        margin-left: 0%;
+        margin-right: 0%;
+    }
 }
 
 .tags__item {
