@@ -104,24 +104,20 @@ For example:
 title: "Release 6.1.4"
 date: 2020-06-02T00:17:15+02:00
 draft: true
-date: 2020-06-01T22:42:28+02:00
 package: dCache
 version: "6.1.4"
 url_base: "https://www.dcache.org/downloads/1.9/repo"
 notes: "https://www.dcache.org/downloads/1.9/release-notes-6.1.shtml"
 packages:
-    -
-        type: "rpm"
-        filename: "dcache-6.1.4-1.noarch.rpm"
-        checksum: "772408613df65e8d353a51fe8aa913e9"
-    -
-        type: "deb"
-        filename: "dcache_6.1.4-1_all.deb"
-        checksum: "0fb637f7dcd158bfd92dcd9b9c56a1e6"
-    -
-        type: "tgz"
-        filename: "dcache-6.1.4.tar.gz"
-        checksum: "145f1d9b578adb508eefe8d64a55fadc"
+- type: "rpm"
+  filename: "dcache-6.1.4-1.noarch.rpm"
+  checksum: "772408613df65e8d353a51fe8aa913e9"
+- type: "deb"
+  filename: "dcache_6.1.4-1_all.deb"
+  checksum: "0fb637f7dcd158bfd92dcd9b9c56a1e6"
+- type: "tgz"
+  filename: "dcache-6.1.4.tar.gz"
+  checksum: "145f1d9b578adb508eefe8d64a55fadc"
 ---
 ```
 
