@@ -49,6 +49,10 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   tags_counter = false # Enable counter for each tag in "Tags" widget
 
 [[Menu.footer]]
+  name = "RSS feeds"
+  url = "/feed"
+
+[[Menu.footer]]
   name = "Data Privacy Policy"
   url = "https://www.desy.de/data_privacy_policy/index_eng.html"
 
