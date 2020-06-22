@@ -1,0 +1,8 @@
+User-agent: *
+
+Disallow: /downloads/*/*.pkg
+Disallow: /downloads/*/*.rpm
+Disallow: /downloads/*/*.tar
+Disallow: /downloads/*/*.tar.gz
+Disallow: /downloads/*/*.tgz
+Disallow: /downloads/*/*.tar.bz2
