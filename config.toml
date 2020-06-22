@@ -30,7 +30,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
   highlightColor = "#e3513c" # Override highlight color
   customCSS = ["css/custom.css"] # Include custom CSS files
-  customJS = ["js/custom.js"] # Include custom JS files
+  # customJS = ["js/custom.js"] # Include custom JS files
 
 [Params.logo]
   image = "img/dCache-logo.svg" # Logo image. Path relative to "static"
