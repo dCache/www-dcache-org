@@ -6,10 +6,10 @@ tags: ["workshop"]
 categories: ["workshop"]
 ---
 
-Once a year dCache developers, sysadmins and friends from around the world meet to exchange news and best practices and gossip. In the past those meeting were held in beautiful cities around the world like Amsterdam, Madrid, .. Taipei, Hamburg and many more. Due to the current situation, this years meeting was held as VC only, at 26/27 May in the afternoon hours.
+Once a year dCache developers, sysadmins and friends from around the world meet to exchange news, best practices and gossip. In the past those meetings were held in beautiful cities around the world such as Amsterdam, Madrid, Taipei, Hamburg and many more. Due to the current situation, this year's meeting was held as a video conference on the 26th/27th of May in the afternoon hours.
 
 ![workshop sreenshot][screenshot]
 
-The agenda and slides available from the workshop [indico](https://indico.desy.de/indico/event/25462/) page.
+The agenda and slides from the workshop are available on the [Indico](https://indico.desy.de/indico/event/25462/) page.
 
 [screenshot]:  ../../img/dcache-workshop-group-photo.png

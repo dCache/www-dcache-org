@@ -5,9 +5,9 @@ menu: main
 weight: 4
 ---
 
-## Release Policy
+## Release policy
 
-dCache follows a time-boxed two dimensional release policy. Every four months we produce a *feature release*. Feature releases have version numbers like **2.x.0**, where **x** is a positive integer.  A new feature release marks the start of a *branch*; for example, the release of dCache **2.10.0** marked the start of the
+dCache follows a time-boxed two dimensional release policy. Every four months we produce a *feature release*. Feature releases have version numbers like **2.x.0**, where **x** is a positive integer. A new feature release marks the start of a *branch*; for example, the release of dCache **2.10.0** marked the start of the
 **2.10**-branch.
 
 A feature release is followed up by a number of *maintenance releases* containing bug fixes or high priority feature tweaks. Maintenance releases for release **2.x.0** have
@@ -15,10 +15,10 @@ version numbers **2.x.y**, with **y** being some number larger than 0; for examp
 
 ## Support period
 
-Typically once a year, we designate one branch a long-term supported release: a *Golden Release*.  The only difference between long-term releases and other branches is the support
+Typically once a year, we designate one branch to a long-term supported release: a *golden release*.  The only difference between long-term releases and other branches is the support
 period.  A golden release is supported until the second subsequent long-term release, which is typically two years. Other branches are supported until the end of the previous
 golden release support period.
 
 Choosing between golden releases and other branches is a matter of site policy and a matter of taste.  Newer branches contain newer features, but they also have shorter support periods and often fewer dCache instances using them.  However, upgrading from a golden release to a non-golden branch does not affect the end-of-support date.
 
-Some sites use dCache that is repackaged by another distribution.  Such distribution may recommend a specific version.  Sites should follow their distribution's recommended version.
+Some sites use dCache that is repackaged by another distribution. Such a distribution may recommend a specific version. Sites should follow their distribution's recommended version.
