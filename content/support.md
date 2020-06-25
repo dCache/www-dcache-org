@@ -2,12 +2,12 @@
 title: "Support"
 draft: false
 menu: main
-weight: 4
+weight: 6
 ---
 
 # dCache.org issue tracking system
 
-For all kinds of support requests, please send an e-mail to our ticket system `support%dcache.org`.
+For all kinds of support requests, please send an e-mail to our ticket system `support(at)dcache.org`.
 
 When sending bug reports please provide sufficient information for us to reproduce the problem. This should include:
 
@@ -22,7 +22,7 @@ Please allow for two working days for the initial reply.
 
 ## Security issues
 
-The security related issues must be sent to `security%dcache.org`.
+The security related issues must be sent to `security(at)dcache.org`.
 
 ## Mailing lists
 

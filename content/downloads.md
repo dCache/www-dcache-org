@@ -2,7 +2,7 @@
 title: "Downloads"
 draft: false
 menu: main
-weight: 3
+weight: 4
 ---
 
 ## Binary packages
