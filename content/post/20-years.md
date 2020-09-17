@@ -9,7 +9,7 @@ categories: ["info"]
 On the 16th of September 2000, at the *Computer User Committee* at DESY, a new project, **A Homogeneous Distributed Storage Environment for Physics Data Processing**, was presented. Its main objectives were to address storage system concerns after HERA and Tevatron accelerator upgrades at DESY and Fermilab. The new system had the following goals:
 
 
-  *   Optimized usage of existing tape drives due to [in the interest of?] transfer rate adaption. [adaptation?]
+  *   Optimized usage of existing tape drives due to transfer rate adaption.
   *   Possible usage of slower and cheaper drive technology without overall performance reduction.
   *   Optimized usage of the robot systems by coordinated read and write requests.
   *   Better usage of network bandwidth by exploring the best location for the data.
