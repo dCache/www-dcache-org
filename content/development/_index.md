@@ -9,7 +9,7 @@ dCache is an open source project that may be found on [GitHub](https://github.co
 
 The formalities on [how to contribute a patch](https://github.com/dcache/dcache/#how-to-contribute) are described in our GitHub README.
 
-Another docoment describes [how to build dCache](https://github.com/dCache/dcache/blob/master/BUILDING.md), which not only includes how to build various packages, but also how to create the *system-test* deployment, which provides a quick and easy way to create a small, ready-to-start test instance. To build dCache, the following tools are required:
+Another document describes [how to build dCache](https://github.com/dCache/dcache/blob/master/BUILDING.md), which not only includes how to build various packages, but also how to create the *system-test* deployment, which provides a quick and easy way to create a small, ready-to-start test instance. To build dCache, the following tools are required:
 - Java 11 (for building and running)
 - Maven 3.5.0 or newer
 
@@ -23,7 +23,7 @@ Testing is an important aspect of software quality. We use JUnit for functional 
 
 ## What to work on
 
-There are three main areas that are addressed on on a regular basis. The first one is *bug fixing* -- users open tickets or we discover issues ourselves that need to be corrected and back-ported. These issues are usually reported either via opening a GitHub issue, creating a ticket via our `support(at)dcache.org` mailing list or writing directly to our `dev(at)dcache.org` mailing list.
+There are three main areas that are addressed on on a regular basis. The first one is *bug fixing* -- users open tickets or we discover issues ourselves that need to be corrected and backported. These issues are usually reported either via opening a GitHub issue, creating a ticket via our `support(at)dcache.org` mailing list or writing directly to our `dev(at)dcache.org` mailing list.
 
 The second area is continual *software maintenance*, which includes keeping the used libraries and general code base up to date, but also experimenting with more modern approaches and frameworks for existing functionalities.
 
