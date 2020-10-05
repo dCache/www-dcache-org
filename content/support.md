@@ -32,8 +32,8 @@ To subscribe/unsubscribe to one of the mailing lists above, send an e-mail by cl
 
 ### Subscribing to the user forum
 
-To subscribe, send an email with the subject `subscribe user-forum` to xx
+To subscribe, send an email with the subject `subscribe user-forum` to `user-forum-subscribe (at) dcache.org`
 
 ### Unsubscribing from the user forum
 
-To unsubscribe, send an email with the subject `signoff user-forum` to xx
+To unsubscribe, send an email with the subject `signoff user-forum` to `user-forum-unsubscribe (at) dcache.org`
