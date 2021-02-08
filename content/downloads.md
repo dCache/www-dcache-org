@@ -17,6 +17,9 @@ weight: 4
     Feature Release
 - [v5.2.x](https://www.dcache.org/old/downloads/1.9/index.shtml#server-5.2)
     Golden Release
+
+## Unsupported releases
+
 - [v5.1.x](https://www.dcache.org/old/downloads/1.9/index.shtml#server-5.1)
     Feature Release
 - [v5.0.x](https://www.dcache.org/old/downloads/1.9/index.shtml#server-5.0)
