@@ -5,8 +5,8 @@ menu: main
 weight: 1
 ---
 
-## Screenshot from dCache workshop
+## Upcoming Event
 
-![workshop sreenshot][screenshot]
+![workshop promo][banner]
 
-[screenshot]:  img/xF-dcache-workshop.png
+[banner]:  img/xF-dcache-workshop.png
