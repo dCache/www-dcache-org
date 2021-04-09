@@ -9,4 +9,4 @@ weight: 1
 
 ![workshop sreenshot][screenshot]
 
-[screenshot]:  img/dcache-workshop-group-photo.png
+[screenshot]:  img/xF-dcache-workshop.png
