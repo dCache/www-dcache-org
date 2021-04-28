@@ -13,3 +13,7 @@ systemd implementation in dCache as well as to share experience from sites that
 already use dCache with systemd.
 
 This will a Video meeting. The links to the connection details will be available soon.
+
+## Update
+
+The workshop [indico link](https://indico.desy.de/event/28064/)
