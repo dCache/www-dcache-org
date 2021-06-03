@@ -1,5 +1,5 @@
 ---
-title: "The slides from Workshop are online"
+title: "The Workshop slides are online"
 date: 2021-06-03T16:09:29+02:00
 tags: ["workshop"]
 draft: false
