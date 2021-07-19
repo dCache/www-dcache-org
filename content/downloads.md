@@ -28,6 +28,10 @@ weight: 4
 - [v4.2.x](https://www.dcache.org/old/downloads/1.9/index.shtml#server-4.2)
     Golden Release
 
+## Plugins
+
+- [v4.0.x for dCache 6.2+](https://dcache.org/old/downloads/1.9/repo/xrootd4j-cms-plugin/xrootd4j-cms-plugin-4.0.4-1.noarch.rpm)
+
 ## Source code
 
 [GitHub](https://github.com/dCache)
