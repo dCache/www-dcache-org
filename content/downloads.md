@@ -30,7 +30,10 @@ weight: 4
 
 ## Plugins
 
-- [v4.0.x for dCache 6.2+](https://dcache.org/old/downloads/1.9/repo/xrootd4j-cms-plugin/xrootd4j-cms-plugin-4.0.4-1.noarch.rpm)
+#### CMS-TFC Plugin
+
+- [v4.0.x](https://dcache.org/old/downloads/1.9/repo/xrootd4j-cms-plugin/xrootd4j-cms-plugin-4.0.4-1.noarch.rpm)
+    for dCache 6.2+
 
 ## Source code
 
