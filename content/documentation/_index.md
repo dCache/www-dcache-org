@@ -23,6 +23,9 @@ weight: 2
 * [The Ultimate Golden Release Upgrade Guide V](https://www.dcache.org/old/manuals/upgrade/upgrade-guide-213.html) - How to get from 2.10 to 2.13.
 * [The Ultimate Golden Release Upgrade Guide VI](https://github.com/dCache/upgrade-guide-216/blob/master/UPGRADE216.md) - How to get from 2.13 to 2.16. _This is a community supported document; our thanks to those who have contributed._
 * [The Ultimate Golden Release Upgrade Guide VII](https://github.com/dCache/upgrade-guide-62/blob/master/UPGRADE62.md) - How to get from 5.2 to 6.2. _This is a community supported document; our thanks to those who have contributed._
+* [The Ultimate Golden Release Upgrade Guide VIII](https://github.com/dCache/upgrade-guid/blob/master/UPGRADE72.md) - How to get from 6.2 to 7.2. _This is a community supported document; our thanks to those who have contributed._
+
+
 
 * [dcap lib client API](https://www.dcache.org/old/manuals/libdcap.shtml)
 * [dccp (dCache copy program)](https://www.dcache.org/old/manuals/dccp.shtml)
