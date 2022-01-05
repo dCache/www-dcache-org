@@ -1,6 +1,8 @@
 ---
 title: "Developer's Corner"
 draft: false
+menu: main
+weight: 8
 ---
 
 dCache is an open source project that may be found on [GitHub](https://github.com/dCache), which not only hosts the repository but is used to track contributions, copyright and issues. This page intends to summarize the basic information of interest for development, including helpful links to repositories and tools, but will also be used to document our workflows and link to the meeting notes. External contributions to the dCache project are welcome!
