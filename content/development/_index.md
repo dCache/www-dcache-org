@@ -31,4 +31,4 @@ Lastly, dCache is enriched with *new capabilities*. These may be based on featur
 
 ## dCache core team meeting notes
 
-The core development team meets weekly to discuss current issues and tickets, ongoing developments and future plans. They are tracked in a GitHub repository that is accessible to core team members ([2019](https://github.com/dCache/developer-meeting-notes/blob/master/2019/), [2020](https://github.com/dCache/developer-meeting-notes/blob/master/2020/), [2021](https://github.com/dCache/developer-meeting-notes/blob/master/2021/)).
+The core development team meets weekly to discuss current issues and tickets, ongoing developments and future plans. The meeting notes are tracked in a [GitHub repository](https://github.com/dCache/developer-meeting-notes) that is accessible to core team members.
