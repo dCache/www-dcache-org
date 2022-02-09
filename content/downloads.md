@@ -11,7 +11,7 @@ weight: 4
 - [v7.2.x](https://www.dcache.org/old/downloads/1.9/index.shtml#server-7.2)
     Latest Golden Release
 - [v7.1.x](https://www.dcache.org/old/downloads/1.9/index.shtml#server-7.1)
-    Latest Feature Release
+    Feature Release
 - [v7.0.x](https://www.dcache.org/old/downloads/1.9/index.shtml#server-7.0)
     Feature Release
 - [v6.2.x](https://www.dcache.org/old/downloads/1.9/index.shtml#server-6.2)
