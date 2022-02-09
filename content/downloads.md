@@ -6,6 +6,8 @@ weight: 4
 ---
 
 ## Binary packages
+- [v8.0.x](https://www.dcache.org/old/downloads/1.9/index.shtml#server-8.0)
+    Latest Feature Release
 - [v7.2.x](https://www.dcache.org/old/downloads/1.9/index.shtml#server-7.2)
     Latest Golden Release
 - [v7.1.x](https://www.dcache.org/old/downloads/1.9/index.shtml#server-7.1)
