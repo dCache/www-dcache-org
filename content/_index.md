@@ -9,4 +9,4 @@ weight: 1
 
 ![workshop promo][banner]
 
-[banner]:  img/xF-dcache-workshop.png
+[banner]:  img/16-dcache-workshop.png
