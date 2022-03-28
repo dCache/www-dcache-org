@@ -4,6 +4,7 @@ date: 2021-04-09T17:05:16+02:00
 tags: ["workshop"]
 draft: false
 categories: ["workshop"]
+thumbnail: "img/xF-dcache-workshop.png"
 ---
 
 We are happy to announce the 15th International dCache Virtual Workshop.

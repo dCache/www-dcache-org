@@ -4,6 +4,7 @@ date: 2022-03-24T23:05:17+01:00
 tags: ["workshop"]
 draft: false
 categories: ["workshop"]
+#thumbnail: "img/16-dcache-workshop.png"
 ---
 
 We are happy to announce the 16th International dCache Virtual Workshop.
