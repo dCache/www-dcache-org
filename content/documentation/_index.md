@@ -11,7 +11,7 @@ weight: 2
 
 * [The Book](https://www.dcache.org/old/manuals/book.shtml) - A general guide for administrators
 * [UserGuide](https://www.dcache.org/old/manuals/userguide.shtml) - A guide for getting the most out of dCache.
-* [dCache, the Overview - an article about dCache](https://www.dcache.org/old/manuals/dcache-whitepaper-light.pdf)
+* [dCache, the Overview - an article about dCache](/docs/dcache-whitepaper-light.pdf)
 * [Publications - slides and information from talks and workshops](https://www.dcache.org/old/manuals/publications.shtml)
 
 ## Manuals
