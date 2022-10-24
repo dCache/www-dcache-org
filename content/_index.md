@@ -12,8 +12,8 @@ The 8.2 series is a long term supported branch and will be maintained until fall
 
 ### Some of the highlights of dCache 8.2
 
-- support for nested groups in the PoolManager
-- a new TAPE API has been made available for the purposes of bulk staging
+- Added support for nested groups in the PoolManager
+- A standardized tape REST API that supports bulk staging is now available
 
 ### Incompatibilities
 
