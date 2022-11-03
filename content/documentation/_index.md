@@ -9,8 +9,8 @@ weight: 2
 
 #### (reference to old pages)
 
-* [The Book](https://www.dcache.org/old/manuals/book.shtml) - A general guide for administrators
-* [UserGuide](https://www.dcache.org/old/manuals/userguide.shtml) - A guide for getting the most out of dCache.
+* The Book ([v8.2](https://www.dcache.org/manuals/Book-8.2), [v7.2](https://www.dcache.org/manuals/Book-7.2/)) - A general guide for administrators
+* UserGuide ([v8.2](https://www.dcache.org/manuals/UserGuide-8.2/), [v7.2](https://www.dcache.org/manuals/UserGuide-7.2/)) - A guide for getting the most out of dCache.
 * [dCache, the Overview - an article about dCache](/docs/dcache-whitepaper-light.pdf)
 * [Publications - slides and information from talks and workshops](https://www.dcache.org/old/manuals/publications.shtml)
 
