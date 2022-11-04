@@ -7,11 +7,11 @@ weight: 5
 
 ## Release policy
 
-dCache follows a time-boxed two dimensional release policy. Every four months we produce a *feature release*. Feature releases have version numbers like **2.x.0**, where **x** is a positive integer. A new feature release marks the start of a *branch*; for example, the release of dCache **2.10.0** marked the start of the
-**2.10**-branch.
+dCache follows a time-boxed two dimensional release policy. Every four months we produce a *feature release*. Feature releases have version numbers like **8.x.0**, where **x** is a positive integer. A new feature release marks the start of a *branch*; for example, the release of dCache **8.1.0** marked the start of the
+**8.1**-branch.
 
-A feature release is followed up by a number of *maintenance releases* containing bug fixes or high priority feature tweaks. Maintenance releases for release **2.x.0** have
-version numbers **2.x.y**, with **y** being some number larger than 0; for example, **2.10.0** is a feature release, **2.10.1** is the first maintenance release for the **2.10**-branch and **2.10.2** is the second maintenance release.
+A feature release is followed up by a number of *maintenance releases* containing bug fixes or high priority feature tweaks. Maintenance releases for release **8.x.0** have
+version numbers **8.x.y**, with **y** being some number larger than 0; for example, **8.1.0** is a feature release, **8.1.1** is the first maintenance release for the **8.1**-branch and **8.1.2** is the second maintenance release.
 
 ## Support period
 
