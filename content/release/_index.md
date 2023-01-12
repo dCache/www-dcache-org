@@ -2,7 +2,7 @@
 title: "Releases"
 draft: false
 menu: main
-weight: 5
+weight: 4
 ---
 
 ## Release policy
