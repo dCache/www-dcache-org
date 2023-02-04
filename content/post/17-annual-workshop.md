@@ -1,9 +1,10 @@
 ---
 title: "17th International dCache Workshop"
-date: 2023-01-20T10:05:17+01:00
+date: 2023-02-04T10:05:17+01:00
 tags: ["workshop"]
-draft: true
+draft: false
 categories: ["workshop"]
+#thumbnail: "img/HTW-Berlin.jpg"
 ---
 
 We are happy to announce the 17th International dCache Workshop in Berlin,
