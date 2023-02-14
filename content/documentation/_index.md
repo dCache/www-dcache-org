@@ -9,6 +9,7 @@ weight: 5
 
 #### (reference to old pages)
 
+* [Installation and Getting started Tutorial for dCache](https://github.com/dCache/dcache/blob/master/docs/TheBook/src/main/markdown/dcache-minimal-installation.md)
 * The Book ([v8.2](https://www.dcache.org/manuals/Book-8.2), [v7.2](https://www.dcache.org/manuals/Book-7.2/)) - A general guide for administrators
 * UserGuide ([v8.2](https://www.dcache.org/manuals/UserGuide-8.2/), [v7.2](https://www.dcache.org/manuals/UserGuide-7.2/)) - A guide for getting the most out of dCache.
 * [dCache, the Overview - an article about dCache](/docs/dcache-whitepaper-light.pdf)
