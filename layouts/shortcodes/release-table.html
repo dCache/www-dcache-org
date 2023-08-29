@@ -1,0 +1,18 @@
+<div class="test">
+    <style>
+        table.releases tbody tr.rec { background-color: #9f9; }
+    	table.releases tbody tr.odd { background-color: #e8f6f8; }
+    	table.releases tbody tr.even { background-color: #d0e5e8; }
+    </style>
+    <table xmlns="" class="releases">
+        <thead>
+	<tr>
+	    <th>Download</th>
+	    <th>Rel. Date</th>
+	    <th>md5 hash</th>
+	    <th>Release Notes</th>
+    	</tr>
+	</thead>
+	{{.Inner}}
+    </table>
+</div>
