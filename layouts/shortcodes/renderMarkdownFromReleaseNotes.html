@@ -30,5 +30,16 @@
 
       // add release-notes, converted from markdown to html, to div
       document.getElementById("markdown").innerHTML = marked.parse(contentDiv.innerHTML);
+
+      // add anchor with bugfix number to each heading
+      var headings = document.querySelectorAll('h2');
+      headings.forEach(function(heading) {
+        var anch = heading.textContent.match(/[0-9]+$/gm);
+        if (anch != null) {
+          heading.setAttribute('id', anch[0]);
+          console.log(anch[0]);
+        }
+        
+      })
     });
 </script>
