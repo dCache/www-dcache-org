@@ -1,6 +1,9 @@
 ---
 title: "Release 7.1.X"
 draft: false
+menu:
+    side:
+        weight: -71
 ---
 dCache 7.1 is a Feature Release, introducing following highlights:
 - The NFS door is updated to allow create, update and remove of directory tags as extended attributes

@@ -1,6 +1,9 @@
 ---
 title: "Release 8.0.X"
 draft: false
+menu:
+    side:
+        weight: -80
 ---
 dCache 8.0 is a Feature Release introducing following highlights:
 - Better nfs v4.x performance of state validation in highly concurrent environment.

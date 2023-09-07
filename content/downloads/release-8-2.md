@@ -1,6 +1,9 @@
 ---
 title: "Release 8.2.X"
 draft: false
+menu:
+    side:
+        weight: -82
 ---
 dCache 8.2 is a Golden Release introducing the following highlights:
 - Support for nested groups in the PoolManager

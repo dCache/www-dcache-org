@@ -1,6 +1,9 @@
 ---
 title: "Release 8.1.X"
 draft: false
+menu:
+    side:
+        weight: -81
 ---
 dCache 8.1 is a Feature Release introducing following highlights:
 - `webdav.redirect.allow-https` and `pool.enable.encrypted-transfers` are now set by default to true

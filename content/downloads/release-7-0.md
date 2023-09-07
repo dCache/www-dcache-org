@@ -1,6 +1,9 @@
 ---
 title: "Release 7.0.X"
 draft: false
+menu:
+    side:
+        weight: -70
 ---
 dCache 7.0 is a Feature Release, introducing following highlights:
 - dCache internal copy triggerd by `srmcp` uses HTTP, was DCAP

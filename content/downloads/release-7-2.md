@@ -1,6 +1,9 @@
 ---
 title: "Release 7.2.X"
 draft: false
+menu:
+    side:
+        weight: -72
 ---
 dCache 7.2 is a Feature Release introducing following highlights:
 - This version introduces a quota system and support for file labels.

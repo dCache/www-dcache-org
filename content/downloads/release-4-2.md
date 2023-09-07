@@ -1,6 +1,9 @@
 ---
 title: "Release 4.2.X"
 draft: false
+menu:
+    side:
+        weight: -42
 ---
 dCache 4.2 is a Golden Release, featuring the following highlights and architectural improvements:
 - The web admin pages have been reworked completely. They are now handled by dCache-View.

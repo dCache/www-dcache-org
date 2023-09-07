@@ -1,6 +1,9 @@
 ---
 title: "Release 9.1.X"
 draft: false
+menu:
+    side:
+        weight: -91
 ---
 dCache 9.1 is a Feature Release introducing following highlights:
 - dCache now supports Java 17 as its platform
