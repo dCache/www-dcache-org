@@ -6,21 +6,23 @@ weight: 3
 ---
 
 ## Binary packages
+- [v9.2.x](https://www.dcache.org/old/downloads/1.9/index.shtml#server-9.2)
+    Latest Golden Release
 - [v9.1.x](https://www.dcache.org/old/downloads/1.9/index.shtml#server-9.1)
     Feature Release
 - [v9.0.x](https://www.dcache.org/old/downloads/1.9/index.shtml#server-9.0)
     Feature Release
 - [v8.2.x](https://www.dcache.org/old/downloads/1.9/index.shtml#server-8.2)
-    Latest Golden Release
+    Golden Release
+
+## Unsupported releases
+
 - [v8.1.x](https://www.dcache.org/old/downloads/1.9/index.shtml#server-8.1)
     Feature Release
 - [v8.0.x](https://www.dcache.org/old/downloads/1.9/index.shtml#server-8.0)
     Feature Release
 - [v7.2.x](https://www.dcache.org/old/downloads/1.9/index.shtml#server-7.2)
     Golden Release
-
-## Unsupported releases
-
 - [v7.1.x](https://www.dcache.org/old/downloads/1.9/index.shtml#server-7.1)
     Feature Release
 - [v7.0.x](https://www.dcache.org/old/downloads/1.9/index.shtml#server-7.0)
