@@ -22,3 +22,7 @@ golden release support period.
 Choosing between golden releases and other branches is a matter of site policy and a matter of taste.  Newer branches contain newer features, but they also have shorter support periods and often fewer dCache instances using them.  However, upgrading from a golden release to a non-golden branch does not affect the end-of-support date.
 
 Some sites use dCache that is repackaged by another distribution. Such a distribution may recommend a specific version. Sites should follow their distribution's recommended version.
+
+## Upgrading
+
+It is not just possible to upgrade from one feature release to the next one, but also from one golden release to the next. In oder to understand the implications and changes, one needs to read all release notes from the intermediate feature releases. We also usually provide an upgrade guide from one golden release to the next that highlights important and breaking changes.
