@@ -7,18 +7,20 @@ weight: 5
 
 ## General
 
-#### (reference to old pages)
+* [Installation and getting started tutorial for dCache](https://github.com/dCache/dcache/blob/master/docs/TheBook/src/main/markdown/dcache-minimal-installation.md)
+* The Book ([9.2](https://www.dcache.org/manuals/Book-9.2/), [8.2](https://www.dcache.org/manuals/Book-8.2), [7.2](https://www.dcache.org/manuals/Book-7.2)) - A general guide for administrators
+* UserGuide ([9.2](https://www.dcache.org/manuals/UserGuide-9.2/), [8.2](https://www.dcache.org/manuals/UserGuide-8.2/), [7.2](https://www.dcache.org/manuals/UserGuide-7.2/)) - A guide for getting the most out of dCache.
 
-* [Installation and Getting started Tutorial for dCache](https://github.com/dCache/dcache/blob/master/docs/TheBook/src/main/markdown/dcache-minimal-installation.md)
-* The Book ([v8.2](https://www.dcache.org/manuals/Book-8.2), [v7.2](https://www.dcache.org/manuals/Book-7.2/)) - A general guide for administrators
-* UserGuide ([v8.2](https://www.dcache.org/manuals/UserGuide-8.2/), [v7.2](https://www.dcache.org/manuals/UserGuide-7.2/)) - A guide for getting the most out of dCache.
+## Publications
+
+* [dCache: Inter-disciplinary storage system](https://www.epj-conferences.org/articles/epjconf/abs/2021/05/epjconf_chep2021_02010/epjconf_chep2021_02010.html)
 * [dCache, the Overview - an article about dCache](/docs/dcache-whitepaper-light.pdf)
-* [Publications - slides and information from talks and workshops](https://www.dcache.org/old/manuals/publications.shtml)
+* [Other publications - slides and information from talks and workshops](https://www.dcache.org/old/manuals/publications.shtml)
 
 ## Manuals
 
+* [The Ultimate Golden Release Upgrade Guide IX](https://github.com/dCache/upgrade-guid/blob/master/UPGRADE92.md) - How to get from 8.2 to 9.2. _This is a community supported document; our thanks to those who have contributed._
 * [The Ultimate Golden Release Upgrade Guide VIII](https://github.com/dCache/upgrade-guid/blob/master/UPGRADE72.md) - How to get from 6.2 to 7.2. _This is a community supported document; our thanks to those who have contributed._
-
 * [The Ultimate Golden Release Upgrade Guide VII](https://github.com/dCache/upgrade-guide-62/blob/master/UPGRADE62.md) - How to get from 5.2 to 6.2. _This is a community supported document; our thanks to those who have contributed._
 * [The Ultimate Golden Release Upgrade Guide VI](https://github.com/dCache/upgrade-guide-216/blob/master/UPGRADE216.md) - How to get from 2.13 to 2.16. _This is a community supported document; our thanks to those who have contributed._
 * [The Ultimate Golden Release Upgrade Guide V](https://www.dcache.org/old/manuals/upgrade/upgrade-guide-213.html) - How to get from 2.10 to 2.13.
