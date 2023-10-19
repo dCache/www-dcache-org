@@ -1,9 +1,6 @@
 ---
 title: "Release 9.0.X"
 draft: false
-menu:
-    side:
-        weight: -90
 ---
 dCache 9.0 is a Feature Release introducing following highlights:
 - dCache now supports Java 17 as its platform

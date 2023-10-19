@@ -1,9 +1,6 @@
 ---
 title: "Release 6.1.X"
 draft: false
-menu:
-    side:
-        weight: -61
 ---
 dCache 6.1 is a Feature Release, focusing on stability and
 Here are the highlights for this release:

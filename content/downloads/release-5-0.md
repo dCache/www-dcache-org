@@ -1,9 +1,6 @@
 ---
 title: "Release 5.0.X"
 draft: false
-menu:
-    side:
-        weight: -50
 ---
 dCache 5.0 is a Feature Release, featuring the following highlights and architectural improvements:
 - Major documentation revision: The dCache Book is up to date again

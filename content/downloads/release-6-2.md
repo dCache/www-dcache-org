@@ -1,9 +1,6 @@
 ---
 title: "Release 6.2.X"
 draft: false
-menu:
-    side:
-        weight: -62
 ---
 dCache 6.2 is a Golden Release, introducing following highlights:
 - Improved pool startup time with BerkeleyDB medadata repository

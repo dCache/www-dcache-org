@@ -1,9 +1,6 @@
 ---
 title: "Release 5.1.X"
 draft: false
-menu:
-    side:
-        weight: -51
 ---
 dCache 5.1 is a Feature Release with the following new features:
 - The Resilience Manager has become more robust

@@ -1,9 +1,6 @@
 ---
 title: "Release 9.2.X"
 draft: false
-menu:
-    side:
-        weight: -91
 ---
 dCache 9.2 is a Feature Release introducing following highlights:
 - Performance improvements for the concurrent directory creation and removal
