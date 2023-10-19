@@ -19,7 +19,10 @@ weight: 5
     * [User Guide v9.1](https://www.dcache.org/manuals/UserGuide-9.1/)
     * [User Guide v9.0](https://www.dcache.org/manuals/UserGuide-9.0/)
     * [User Guide v8.2](https://www.dcache.org/manuals/UserGuide-8.2/)
-    
+
+## Publications
+
+* [dCache: Inter-disciplinary storage system](https://www.epj-conferences.org/articles/epjconf/abs/2021/05/epjconf_chep2021_02010/epjconf_chep2021_02010.html)
 * [dCache, the Overview - an article about dCache](/docs/dcache-whitepaper-light.pdf)
 * [Other publications - slides and information from talks and workshops](https://www.dcache.org/old/manuals/publications.shtml)
 
