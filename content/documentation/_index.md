@@ -7,13 +7,19 @@ weight: 5
 
 ## General
 
-* [Installation and getting started tutorial for dCache](https://github.com/dCache/dcache/blob/master/docs/TheBook/src/main/markdown/dcache-minimal-installation.md)
-* The Book ([9.2](https://www.dcache.org/manuals/Book-9.2/), [8.2](https://www.dcache.org/manuals/Book-8.2), [7.2](https://www.dcache.org/manuals/Book-7.2)) - A general guide for administrators
-* UserGuide ([9.2](https://www.dcache.org/manuals/UserGuide-9.2/), [8.2](https://www.dcache.org/manuals/UserGuide-8.2/), [7.2](https://www.dcache.org/manuals/UserGuide-7.2/)) - A guide for getting the most out of dCache.
+* [Installation and Getting started Tutorial for dCache](https://github.com/dCache/dcache/blob/master/docs/TheBook/src/main/markdown/dcache-minimal-installation.md)
+* The Book - A general guide for administrators
+    * [The Book v9.2](https://www.dcache.org/manuals/Book-9.2)
+    * [The Book v9.1](https://www.dcache.org/manuals/Book-9.1)
+    * [The Book v9.0](https://www.dcache.org/manuals/Book-9.0)
+    * [The Book v8.2](https://www.dcache.org/manuals/Book-8.2)
 
-## Publications
-
-* [dCache: Inter-disciplinary storage system](https://www.epj-conferences.org/articles/epjconf/abs/2021/05/epjconf_chep2021_02010/epjconf_chep2021_02010.html)
+* UserGuide - A guide for getting the most out of dCache.
+    * [User Guide v9.2](https://www.dcache.org/manuals/UserGuide-9.2/)
+    * [User Guide v9.1](https://www.dcache.org/manuals/UserGuide-9.1/)
+    * [User Guide v9.0](https://www.dcache.org/manuals/UserGuide-9.0/)
+    * [User Guide v8.2](https://www.dcache.org/manuals/UserGuide-8.2/)
+    
 * [dCache, the Overview - an article about dCache](/docs/dcache-whitepaper-light.pdf)
 * [Other publications - slides and information from talks and workshops](https://www.dcache.org/old/manuals/publications.shtml)
 
