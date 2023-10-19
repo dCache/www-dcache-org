@@ -17,31 +17,29 @@ weight: 3
 
 ## Unsupported releases
 
-- [v8.2.x](/release-8-2)
-    Latest Golden Release
-- [v8.1.x](/release-8-1)
+- [v8.1.x](/downloads/release-8-1)
     Feature Release
-- [v8.0.x](/release-8-0)
+- [v8.0.x](/downloads/release-8-0)
     Feature Release
-- [v7.2.x](/release-7-2)
+- [v7.2.x](/downloads/release-7-2)
     Golden Release
-- [v7.1.x](https://www.dcache.org/old/downloads/1.9/index.shtml#server-7.1)
+- [v7.1.x](/downloads/release-7-1)
     Feature Release
-- [v7.0.x](/release-7-0)
+- [v7.0.x](/downloads/release-7-0)
     Feature Release
-- [v6.2.x](/release-6-2)
+- [v6.2.x](/downloads/release-6-2)
     Golden Release
-- [v6.1.x](/release-6-1)
+- [v6.1.x](/downloads/release-6-1)
     Feature Release
-- [v6.0.x](/release-6-0)
+- [v6.0.x](/downloads/release-6-0)
     Feature Release
-- [v5.2.x](/release-5-2)
+- [v5.2.x](/downloads/release-5-2)
     Golden Release
-- [v5.1.x](/release-5-1)
+- [v5.1.x](/downloads/release-5-1)
     Feature Release
-- [v5.0.x](/release-5-0)
+- [v5.0.x](/downloads/release-5-0)
     Feature Release
-- [v4.2.x](/release-4-2)
+- [v4.2.x](/downloads/release-4-2)
     Golden Release
 
 ## Plugins
