@@ -6,6 +6,7 @@ weight: 3
 ---
 
 ## Binary packages
+
 - [v9.2.x](release-9-2/)
     Latest Golden Release
 - [v9.1.x](release-9-1/)
