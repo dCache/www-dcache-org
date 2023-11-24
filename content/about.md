@@ -17,13 +17,13 @@ As an open source project, dCache welcomes community contributions. It uses the 
 
 ## Where we are
 
-### Live map of dCache installations around the world
+### Map of dCache installations around the world
 
 ![dcache map][dcache-map]
 
 ### Project status
 
-Since the end of 2001 our full production release is in use at an increasing number of sites world-wide and is delivering terabytes of data from over hundreds of distributed server nodes.
+Since the end of 2001 our full production release is in use at an increasing number of sites world-wide and is delivering petabytes of data from over hundreds of distributed server nodes.
 
 ### Contact
 
