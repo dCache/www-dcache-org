@@ -9,7 +9,7 @@ dCache is an open source project that may be found on [GitHub](https://github.co
 
 ## Getting started
 
-The formalities on [how to contribute a patch](https://github.com/dcache/dcache/#how-to-contribute) are described in our GitHub README. We use use an adapted version of the Google style guide for Java to format code before committing it. The formatting document for IntelliJ can be found in the repository root.
+The formalities on [how to contribute a patch](https://github.com/dcache/dcache/#how-to-contribute) without being part of the core development team are described in our GitHub README. We use use an adapted version of the Google style guide for Java to format code before committing it. The formatting document for IntelliJ can be found in the repository root.
 
 Another document describes [how to build dCache](https://github.com/dCache/dcache/blob/master/BUILDING.md), which not only includes how to build various packages, but also how to create the *system-test* deployment, which provides a quick and easy way to create a small, ready-to-start test instance. To build dCache, the following tools are required:
 - Java 11 (for building and running)
