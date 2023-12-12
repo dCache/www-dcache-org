@@ -19,9 +19,9 @@ Another document describes [how to build dCache](https://github.com/dCache/dcach
 
 Following the dCache [release policy](../release), several production branches are maintained at any point in time, including the lastest feature releases up to the newest golden release. Changes are first added to the master branch, bug fixes are then backported to supported branches and published as maintenance releases once a week.
 
-In order to add a patch to the dCache codebase, external contributors must submit a pull request. Core team members use the Review Board software to inspect and discuss changes before allowing submission into the master branch.
+In order to add a patch to the dCache codebase, external contributors must submit a pull request. Core team members use the [Review Board](https://rb.dcache.org/) software to inspect and discuss changes before allowing submission into the master branch.
 
-Testing is an important aspect of software quality. We use JUnit for functional testing, SpotBugs for static code analysis and the Robot framework for black-box integration testing. When committing a patch to the GitHub repository, a continuous integration process is triggered via Jenkins that automatically builds dCache and runs this test suite to catch regression errors, giving feedback on the commit.
+Testing is an important aspect of software quality. We use JUnit for functional testing, SpotBugs for static code analysis and the Robot framework for black-box integration testing. When committing a patch to the GitHub repository, a continuous integration process is triggered via [Jenkins](https://ci.dcache.org/) that automatically builds dCache and runs this test suite to catch regression errors, giving feedback on the commit. This workflow is increasingly mirrored at and moved to our [GitLab instance](https://gitlab.desy.de/dcache/dcache) at DESY, where we are testing and deploying in kubernetes.
 
 ## What to work on
 
