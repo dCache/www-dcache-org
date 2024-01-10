@@ -1,0 +1,45 @@
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<div id="markdown" style="height: 100%;"></div>
+<script type="module">
+  import { Octokit } from "https://esm.sh/@octokit/rest";
+
+
+  const octokit = new Octokit({
+    userAgent: "dcache",
+    baseUrl: "https://api.github.com",
+  });
+
+  octokit.repos
+    .getContent({
+      owner: "dCache",
+      repo: "release-notes",
+      path: "{{ .Get 0 }}",
+    })
+    .then((result) => {
+      // content will be base64 encoded
+      var content = atob(result.data.content).toString();
+
+      // replace rel links from github markdown with abs links
+        var toUrl = "https://github.com/dCache/release-notes/blob/master";
+      content = content.replace(/\]\(\./g, "](" + toUrl);
+
+      // extract content div from string, that contains non-html elements
+      var tempElement = document.createElement('div');
+      tempElement.innerHTML = content;
+      var contentDiv = tempElement.querySelector('#content');
+
+      // add release-notes, converted from markdown to html, to div
+      document.getElementById("markdown").innerHTML = marked.parse(contentDiv.innerHTML);
+
+      // add anchor with bugfix number to each heading
+      var headings = document.querySelectorAll('h2');
+      headings.forEach(function(heading) {
+        var anch = heading.textContent.match(/[0-9]+$/gm);
+        if (anch != null) {
+          heading.setAttribute('id', anch[0]);
+          console.log(anch[0]);
+        }
+        
+      })
+    });
+</script>
