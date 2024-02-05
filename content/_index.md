@@ -7,8 +7,8 @@ weight: 1
 
 ## Upcoming Event
 
-![workshop promo][banner](&copy; HTW Berlin/Alexander Rentsch)
+![workshop promo][banner]
 
-[Workshop details](post/17-annual-workshop)
+[Workshop details](post/18-annual-workshop)
 
-[banner]: img/HTW-Berlin.jpg
+[banner]: img/18-dcache-workshop.png
