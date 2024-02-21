@@ -5,7 +5,7 @@ menu: main
 weight: 6
 ---
 
-# dCache.org issue tracking system
+## dCache.org issue tracking system
 
 For all kinds of support requests, please send an e-mail to our ticket system `support(at)dcache.org`.
 
