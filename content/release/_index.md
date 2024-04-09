@@ -15,6 +15,8 @@ version numbers **8.x.y**, with **y** being some number larger than 0; for examp
 
 ## Support period
 
+{{< figure src="timeline-dCache.svg" >}}
+
 Typically once a year, we designate one branch to a long-term supported release: a *golden release*.  The only difference between long-term releases and other branches is the support
 period.  A golden release is supported until the second subsequent long-term release, which is typically two years. Other branches are supported until the end of the previous
 golden release support period.
