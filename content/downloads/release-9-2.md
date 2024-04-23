@@ -2,7 +2,7 @@
 title: "Release 9.2.X"
 draft: false
 ---
-dCache 9.2 is a Feature Release introducing following highlights:
+dCache 9.2 is a Golden Release introducing following highlights:
 - Performance improvements for the concurrent directory creation and removal
 
 #### Incompatibilities
