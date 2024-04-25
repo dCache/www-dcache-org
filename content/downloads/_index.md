@@ -20,29 +20,29 @@ weight: 3
 
 ## Unsupported releases
 
-- [v8.1.x](release-8-1/)
+- [v8.1.x](https://dcache.org/old/downloads/1.9/release-notes-8.1.shtml)
     Feature Release
-- [v8.0.x](release-8-0/)
+- [v8.0.x](https://dcache.org/old/downloads/1.9/release-notes-8.0.shtml)
     Feature Release
-- [v7.2.x](release-7-2/)
+- [v7.2.x](https://dcache.org/old/downloads/1.9/release-notes-7.2.shtml)
     Golden Release
-- [v7.1.x](release-7-1/)
+- [v7.1.x](https://dcache.org/old/downloads/1.9/release-notes-7.1.shtml)
     Feature Release
-- [v7.0.x](release-7-0/)
+- [v7.0.x](https://dcache.org/old/downloads/1.9/release-notes-7.0.shtml)
     Feature Release
-- [v6.2.x](release-6-2/)
+- [v6.2.x](https://dcache.org/old/downloads/1.9/release-notes-6.2.shtml)
     Golden Release
-- [v6.1.x](release-6-1/)
+- [v6.1.x](https://dcache.org/old/downloads/1.9/release-notes-6.1.shtml)
     Feature Release
-- [v6.0.x](release-6-0/)
+- [v6.0.x](https://dcache.org/old/downloads/1.9/release-notes-6.0.shtml)
     Feature Release
-- [v5.2.x](release-5-2/)
+- [v5.2.x](https://dcache.org/old/downloads/1.9/release-notes-5.2.shtml)
     Golden Release
-- [v5.1.x](release-5-1/)
+- [v5.1.x](https://dcache.org/old/downloads/1.9/release-notes-5.1.shtml)
     Feature Release
-- [v5.0.x](release-5-0/)
+- [v5.0.x](https://dcache.org/old/downloads/1.9/release-notes-5.0.shtml)
     Feature Release
-- [v4.2.x](release-4-2/)
+- [v4.2.x](https://dcache.org/old/downloads/1.9/release-notes-4.2.shtml)
     Golden Release
 
 ## Plugins
