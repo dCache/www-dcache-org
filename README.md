@@ -2,6 +2,12 @@
 
 The static pages based on [Hugo](https://gohugo.io)
 
+## TODO in this branch
+
+- Sort versions numerically instead of alphabetically
+- Divide Release Notes from Downloads, create an extra Tab with Release-Notes?
+- Update release process to generate the new release notes
+
 ## Bootstrap the site
 
 Clone repo into a local directory:
