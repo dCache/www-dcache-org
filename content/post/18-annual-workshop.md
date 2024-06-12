@@ -4,7 +4,7 @@ date: 2024-02-05T17:05:17+01:00
 tags: ["workshop"]
 draft: false
 categories: ["workshop"]
-#thumbnail: "img/18-dcache-workshop.png"
+thumbnail: "img/18-dcache-workshop.png"
 ---
 
 We are happy to announce the 18th International dCache workshop 2024 will
