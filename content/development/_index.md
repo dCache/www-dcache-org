@@ -5,15 +5,13 @@ menu: main
 weight: 8
 ---
 
-dCache is an open source project that may be found on [GitHub](https://github.com/dCache), which not only hosts the repository but is used to track contributions, copyright and issues. This page intends to summarize the basic information of interest for development, including helpful links to repositories and tools, but will also be used to document our workflows and link to the meeting notes. External contributions to the dCache project are welcome!
+dCache is an open source project that may be found on [GitHub](https://github.com/dCache), which not only hosts the repository but is used to track contributions, copyright and issues. This page intends to summarize the basic information of interest for development, especially collect helpful links to repositories and tools. External contributions to the dCache project are welcome!
 
 ## Getting started
 
-The formalities on [how to contribute a patch](https://github.com/dcache/dcache/#how-to-contribute) without being part of the core development team are described in our GitHub README. We use use an adapted version of the Google style guide for Java to format code before committing it. The formatting document for IntelliJ can be found in the repository root.
+Details on how to contribute a patch and our specific workflows [can be found here](https://github.com/dcache/dcache/blob/master/CONTRIBUTING.md).
 
-Another document describes [how to build dCache](https://github.com/dCache/dcache/blob/master/BUILDING.md), which not only includes how to build various packages, but also how to create the *system-test* deployment, which provides a quick and easy way to create a small, ready-to-start test instance. To build dCache, the following tools are required:
-- Java 11 (for building and running)
-- Maven 3.5.0 or newer
+Another document describes [how to build dCache](https://github.com/dCache/dcache/blob/master/BUILDING.md), which not only includes how to build various packages, but also how to create the *system-test* deployment, which provides a quick and easy way to create a small, ready-to-start test instance.
 
 ## Workflows and best practices
 
@@ -21,7 +19,7 @@ Following the dCache [release policy](../release), several production branches a
 
 In order to add a patch to the dCache codebase, external contributors must submit a pull request. Core team members use the [Review Board](https://rb.dcache.org/) software to inspect and discuss changes before allowing submission into the master branch.
 
-Testing is an important aspect of software quality. We use JUnit for functional testing, SpotBugs for static code analysis and the Robot framework for black-box integration testing. When committing a patch to the GitHub repository, a continuous integration process is triggered via [Jenkins](https://ci.dcache.org/) that automatically builds dCache and runs this test suite to catch regression errors, giving feedback on the commit. This workflow is increasingly mirrored at and moved to our [GitLab instance](https://gitlab.desy.de/dcache/dcache) at DESY, where we are testing and deploying in kubernetes.
+Testing is an important aspect of software quality. We use JUnit for functional testing, SpotBugs for static code analysis and the Robot framework for black-box integration testing. When committing a patch to the GitHub repository, a continuous integration process is triggered that automatically builds dCache and runs this test suite to catch regression errors, giving feedback on the commit. This workflow is increasingly mirrored at and moved to our [GitLab instance](https://gitlab.desy.de/dcache/dcache) at DESY, where we are testing and deploying in kubernetes.
 
 ## What to work on
 
