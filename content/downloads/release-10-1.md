@@ -16,4 +16,3 @@ dCache 10.1 is a Feature Release introducing following highlights:
 {{< releases-10-1 >}}
 
 {{</ release-table >}}
-~                          
