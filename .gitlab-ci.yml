@@ -1,0 +1,13 @@
+
+
+stages:
+  - deploy
+
+Deploy dCache.ORG pages:
+  stage: deploy
+  tags:
+    - hugo
+    - www.dcache.org
+  script:
+    - git submodule update --init --recursive
+    - /usr/local/bin/hugo -b https://dcache.org -d /data/www/dcache.org/
