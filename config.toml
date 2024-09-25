@@ -43,7 +43,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   list = "right"  # Configure layout for list pages
   single = true # Configure layout for single pages
   # Enable widgets in given order
-  widgets = ["recent", "categories", "sidemenu", "taglist", "series"]
+  widgets = ["recent", "categories", "sidemenu", "taglist", "series", "citation"]
 
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
