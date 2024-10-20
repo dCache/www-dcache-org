@@ -2,20 +2,20 @@
 title: "Release 10.2.X"
 draft: false
 ---
-dCache 10.2 is a Golden  Release introducing following highlights:
+dCache 10.2 is a Golden Release introducing the following highlights:
 
 - Expose user/group quotas via remote quota protocol
 - Java 21 is supported as runtime environment
 - PoC support for firefly network markers
-- Support of Label-based virtual read-only directories
+- Support for label-based virtual read-only directories
 
 #### Incompatibilities
 
-- Pool Manager partitions by default allowed  to stage
-- Dropped gPlazma ARGUS plugin
-- A stage request canceled in the poolmanager will propagate the cancel to pool
-- Pool internal health check is disabled if an external check command is configured.
-- Access to files with QoS 'HSM'-only will be denied, even if they are still available on disks.
+- Poolmanager partitions by default allow staging
+- Dropped the gPlazma ARGUS plugin
+- Cancelling a stage request in poolmanager will propagate the cancellation to the pool
+- The pool-internal health check is disabled if an external check command is configured
+- Access to files with QoS 'HSM'-only will be denied, even if they are still available on disk
 
 
 {{< release-table >}}
