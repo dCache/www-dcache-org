@@ -8,22 +8,22 @@ weight: 3
 ## Binary packages
 
 - [v10.2.x](release-10-2/)
-    Golden Release
+    Latest Golden Release
 - [v10.1.x](release-10-1/)
     Feature Release
 - [v10.0.x](release-10-0/)
     Feature Release
 - [v9.2.x](release-9-2/)
-    Latest Golden Release
+    Golden Release
+
+## Unsupported releases
+
 - [v9.1.x](release-9-1/)
     Feature Release
 - [v9.0.x](release-9-0/)
     Feature Release
 - [v8.2.x](release-8-2/)
     Golden Release
-
-## Unsupported releases
-
 - [v8.1.x](release-8-1/)
     Feature Release
 - [v8.0.x](release-8-0/)
