@@ -18,6 +18,7 @@ weight: 5
     * [The Book v8.2](https://www.dcache.org/manuals/Book-8.2)
 
 * UserGuide - A guide for getting the most out of dCache.
+    * [User Guide v10.2](https://www.dcache.org/manuals/UserGuide-10.2/)
     * [User Guide v10.1](https://www.dcache.org/manuals/UserGuide-10.1/)
     * [User Guide v10.0](https://www.dcache.org/manuals/UserGuide-10.0/)
     * [User Guide v9.2](https://www.dcache.org/manuals/UserGuide-9.2/)
