@@ -5,10 +5,10 @@ menu: main
 weight: 1
 ---
 
-## Group Photo from 18th International dCache workshop
+## Upcoming Event
 
-![group photo][banner]
+![Workshop promo][banner]
 
-[Workshop details](post/18-annual-workshop)
+[Workshop details](post/19-annual-workshop)
 
-[banner]: img/duw-2024-group-photo.jpg
+[banner]: img/19-dcache-workshop.png
