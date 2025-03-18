@@ -9,17 +9,18 @@ categories: ["workshop"]
 
 ![Workshop promo][banner]
 
-We are happy to announce the 19th International dCache workshop 2025. It will
-take place from 2025-05-20 to 2025-05-21 in person and hosted by CC-IN2P3 in Lyon.
+We are pleased to announce the 19th International dCache Workshop 2025!
+The workshop will be held in person from May 20 to May 21, 2025, at CC-IN2P3 in Lyon.
 
 https://indico.desy.de/e/dcache-uw19
 
-As usual we will present forthcoming developments and technologies,
-both provided by and influencing dCache. However, we are always happy to
-include presentations from you, especially if you have a special configuration,
-user community or use case, or experience with new hardware. If you have something to share with us or have an interest
-in a particular topic - hands up!
+As always, we will present upcoming developments and technologies related to dCache,
+as well as those influencing its ecosystem. We also welcome contributions from the
+community—whether you have a unique configuration, a specific user community use case,
+or experience with new hardware, we'd love to hear from you!
 
-Please contact us for workshop related questions and suggestion using   `workshopԹdcache.org`.
+If you have something to share or are interested in a particular topic, let us know—your input is invaluable!
+
+Please contact us for workshop-related questions and suggestions using `workshopԹdcache.org`.
 
 [banner]: /img/19-dcache-workshop.png
