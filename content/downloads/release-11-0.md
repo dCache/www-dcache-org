@@ -11,6 +11,6 @@ dCache 11.0 is a Feature Release introducing following highlights:
 
 {{< release-table >}}
 
-{{< releases-10-0 >}}
+{{< releases-11-0 >}}
 
 {{</ release-table >}}
