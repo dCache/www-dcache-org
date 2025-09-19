@@ -7,6 +7,8 @@ weight: 3
 
 ## Binary packages
 
+- [v11.1.x](release-11-1/)
+    Feature Release
 - [v11.0.x](release-11-0/)
     Feature Release
 - [v10.2.x](release-10-2/)
