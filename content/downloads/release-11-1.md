@@ -7,7 +7,12 @@ dCache 11.1 is a Feature Release introducing following highlights:
 
 
 #### Incompatibilities
-- Database automatic schema migration can't downgrade to the earlier schema versions
+-  Drop support for nfsv4_1_files layout type.
+-  Drop admin commands to set/get/list `flags` associated with files.
+-  Obsolete `pool.enable.hsm-flag`.
+-  Stop populating of `t_storageinfo` chimera table.
+-  Removed Legacy admin shell
+
 
 {{< release-table >}}
 
