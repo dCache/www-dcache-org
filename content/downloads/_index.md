@@ -6,13 +6,14 @@ weight: 3
 ---
 
 ## Binary packages
-
+- [v11.2.x](release-11-2/)
+    Latest Golden Release
 - [v11.1.x](release-11-1/)
     Feature Release
 - [v11.0.x](release-11-0/)
     Feature Release
 - [v10.2.x](release-10-2/)
-    Latest Golden Release
+    Golden Release
 - [v10.1.x](release-10-1/)
     Feature Release
 - [v10.0.x](release-10-0/)
