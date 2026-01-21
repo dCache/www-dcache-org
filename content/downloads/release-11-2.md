@@ -4,9 +4,9 @@ draft: false
 ---
 dCache 11.2 is a Feature Release introducing following highlights:
 
--NFS reag performance improvement
--Kafka logging for billing
--Introduce hot file replication mechanism on pools, where the pool itself tiggers replication of hot (popular) files
+- NFS read performance improvement
+- Kafka logging for billing
+- Introduce hot file replication mechanism on pools, where the pool itself tiggers replication of hot (popular) files
 
 
 
