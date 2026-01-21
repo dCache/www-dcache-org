@@ -2,7 +2,7 @@
 title: "Release 11.2.X"
 draft: false
 ---
-dCache 11.2 is a Feature Release introducing following highlights:
+dCache 11.2 is a Golden Release introducing following highlights:
 
 - NFS read performance improvement
 - Kafka logging for billing
