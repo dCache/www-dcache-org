@@ -7,12 +7,13 @@ dCache 11.1 is a Feature Release introducing following highlights:
 
 
 #### Incompatibilities
--  Drop support for nfsv4_1_files layout type.
--  Drop admin commands to set/get/list `flags` associated with files.
--  Obsolete `pool.enable.hsm-flag`.
--  Stop populating of `t_storageinfo` chimera table.
--  Removed Legacy admin shell
+-  Dropped support for nfsv4_1_files layout type
+-  Dropped admin commands to set/get/list `flags` associated with files
+-  `pool.enable.hsm-flag` became obsolete
+-  `t_storageinfo` chimera table is deprecated 
+-  Removed legacy admin shell
 
+_Starting with dcache 10.1.0 Java 17 is required for runtime_
 
 {{< release-table >}}
 

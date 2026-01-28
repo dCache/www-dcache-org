@@ -15,7 +15,9 @@ dCache 10.2 is a Golden Release introducing the following highlights:
 - Dropped the gPlazma ARGUS plugin
 - Cancelling a stage request in poolmanager will propagate the cancellation to the pool
 - The pool-internal health check is disabled if an external check command is configured
-- Access to files with QoS 'HSM'-only will be denied, even if they are still available on disk
+- Access to files with QoS HSM-only will be denied, even if they are still available on disk
+
+_Starting with dcache 10.1.0 Java 17 is required for runtime_
 
 
 {{< release-table >}}

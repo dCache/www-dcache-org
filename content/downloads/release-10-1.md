@@ -7,7 +7,7 @@ dCache 10.1 is a Feature Release introducing following highlights:
 
 #### Incompatibilities
 
-- starting with dcache–10.1.0 Java 17 is required for runtime
+- Starting with dcache 10.1.0 Java 17 is required for runtime
 - Transfer managers database functionality has been removed
 
 

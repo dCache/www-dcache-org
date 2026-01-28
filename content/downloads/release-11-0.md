@@ -4,10 +4,12 @@ draft: false
 ---
 dCache 11.0 is a Feature Release introducing following highlights:
 - SciTag support
-- Retry stage requests on `pool up`
+- Retry stage request on `pool up`
 
 #### Incompatibilities
 - Database automatic schema migration can't downgrade to the earlier schema versions
+
+_Starting with dcache 10.1.0 Java 17 is required for runtime_
 
 {{< release-table >}}
 

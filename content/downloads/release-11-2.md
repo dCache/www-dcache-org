@@ -8,11 +8,10 @@ dCache 11.2 is a Golden Release introducing following highlights:
 - Kafka logging for billing
 - Introduce hot file replication mechanism on pools, where the pool itself tiggers replication of hot (popular) files
 
-
-
 #### Incompatibilities
 - Xrootd PrepareRequest will return Unsupported
 
+_Starting with dcache 10.1.0 Java 17 is required for runtime_
 
 {{< release-table >}}
 
