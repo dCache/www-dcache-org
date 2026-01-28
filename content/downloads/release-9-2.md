@@ -10,7 +10,7 @@ dCache 9.2 is a Golden Release introducing following highlights:
 - Dropped reference count tracking for directory tags
 - Dropped support of java options `chimera_soft_update` and `chimera_lazy_wcc` in favor of `chimera.attr-consistency` property
 
-dCache v9.2 requires a JVM supporting Java 11 or Java 17.
+_dCache 9.2 requires a JVM supporting Java 11 or Java 17_
 
 {{< release-table >}}
 
