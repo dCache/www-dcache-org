@@ -34,6 +34,7 @@ weight: 5
 
 ## Manuals
 
+* [The Ultimate Golden Release Upgrade Guide X](https://github.com/dCache/upgrade-guide/blob/master/UPGRADE112.md) - How to get from 10.2 to 11.2. And crucial changes from 9.2. _This is a community supported document; our thanks to those who have contributed._
 * [The Ultimate Golden Release Upgrade Guide IX](https://github.com/dCache/upgrade-guid/blob/master/UPGRADE92.md) - How to get from 8.2 to 9.2. _This is a community supported document; our thanks to those who have contributed._
 * [The Ultimate Golden Release Upgrade Guide VIII](https://github.com/dCache/upgrade-guid/blob/master/UPGRADE72.md) - How to get from 6.2 to 7.2. _This is a community supported document; our thanks to those who have contributed._
 * [The Ultimate Golden Release Upgrade Guide VII](https://github.com/dCache/upgrade-guide-62/blob/master/UPGRADE62.md) - How to get from 5.2 to 6.2. _This is a community supported document; our thanks to those who have contributed._
