@@ -5,6 +5,12 @@ menu: main
 weight: 3
 ---
 
+dCache packages are signed with GPG key. [Download Key](/RPM-GPG-KEY-dcache-org-signing-key)
+
+`
+Key fingerprint: 5244 E542 ACB0 1347 D8E0 3DA1 3B97 732D 3321 DE4C
+`
+
 ## Binary packages
 - [v11.2.x](release-11-2/)
     Latest Golden Release
@@ -60,15 +66,6 @@ weight: 3
 
 - [v4.0.x](https://dcache.org/old/downloads/1.9/repo/xrootd4j-cms-plugin/xrootd4j-cms-plugin-4.0.4-1.noarch.rpm)
     for dCache 6.2+
-
-### dCache.org Official Signing Key
-
-[Download Key](/RPM-GPG-KEY-dcache-org-signing-key)
-
-```
-pub rsa2048/0x3B97732D3321DE4C 2020-03-11 dCache (dCache.org Official Signing Key) <securityԹdcache.org>
-Key Fingerprint =  5244 E542 ACB0 1347 D8E0 3DA1 3B97 732D 3321 DE4C
-```
 
 ## Source code
 
