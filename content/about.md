@@ -20,6 +20,7 @@ As an open source project, dCache welcomes community contributions. It uses the 
 ### Map of dCache installations around the world
 
 ![dcache map][dcache-map]
+© OpenStreetMap contributors
 
 ### Project status
 
