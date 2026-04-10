@@ -30,4 +30,4 @@ Since the end of 2001 our full production release is in use at an increasing num
 - `support(at)dcache.org`
 - `security(at)dcache.org`
 
-[dcache-map]:  ../img/dcache-map.gif
+[dcache-map]:  ../img/dcache-map.png
