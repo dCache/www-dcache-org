@@ -10,8 +10,8 @@ weight: 5
 * [Installation and Getting started Tutorial for dCache](https://github.com/dCache/dcache/blob/master/docs/TheBook/src/main/markdown/dcache-minimal-installation.md)
 * The Book - A general guide for administrators
     * [The Book v11.2](https://www.dcache.org/manuals/Book-11.2)
-    * [The Book v11.2](https://www.dcache.org/manuals/Book-11.1)
-    * [The Book v11.2](https://www.dcache.org/manuals/Book-11.0)
+    * [The Book v11.1](https://www.dcache.org/manuals/Book-11.1)
+    * [The Book v11.0](https://www.dcache.org/manuals/Book-11.0)
     * [The Book v10.2](https://www.dcache.org/manuals/Book-10.2)
     * [The Book v10.1](https://www.dcache.org/manuals/Book-10.1)
     * [The Book v10.0](https://www.dcache.org/manuals/Book-10.0)
@@ -22,8 +22,8 @@ weight: 5
 
 * UserGuide - A guide for getting the most out of dCache.
     * [User Guide v11.2](https://www.dcache.org/manuals/UserGuide-11.2/)
-    * [User Guide v11.2](https://www.dcache.org/manuals/UserGuide-11.1/)
-    * [User Guide v11.2](https://www.dcache.org/manuals/UserGuide-11.0/)
+    * [User Guide v11.1](https://www.dcache.org/manuals/UserGuide-11.1/)
+    * [User Guide v11.0](https://www.dcache.org/manuals/UserGuide-11.0/)
     * [User Guide v10.2](https://www.dcache.org/manuals/UserGuide-10.2/)
     * [User Guide v10.1](https://www.dcache.org/manuals/UserGuide-10.1/)
     * [User Guide v10.0](https://www.dcache.org/manuals/UserGuide-10.0/)
