@@ -10,6 +10,8 @@ weight: 5
 * [Installation and Getting started Tutorial for dCache](https://github.com/dCache/dcache/blob/master/docs/TheBook/src/main/markdown/dcache-minimal-installation.md)
 * The Book - A general guide for administrators
     * [The Book v11.2](https://www.dcache.org/manuals/Book-11.2)
+    * [The Book v11.2](https://www.dcache.org/manuals/Book-11.1)
+    * [The Book v11.2](https://www.dcache.org/manuals/Book-11.0)
     * [The Book v10.2](https://www.dcache.org/manuals/Book-10.2)
     * [The Book v10.1](https://www.dcache.org/manuals/Book-10.1)
     * [The Book v10.0](https://www.dcache.org/manuals/Book-10.0)
@@ -20,6 +22,8 @@ weight: 5
 
 * UserGuide - A guide for getting the most out of dCache.
     * [User Guide v11.2](https://www.dcache.org/manuals/UserGuide-11.2/)
+    * [User Guide v11.2](https://www.dcache.org/manuals/UserGuide-11.1/)
+    * [User Guide v11.2](https://www.dcache.org/manuals/UserGuide-11.0/)
     * [User Guide v10.2](https://www.dcache.org/manuals/UserGuide-10.2/)
     * [User Guide v10.1](https://www.dcache.org/manuals/UserGuide-10.1/)
     * [User Guide v10.0](https://www.dcache.org/manuals/UserGuide-10.0/)
@@ -46,7 +50,3 @@ weight: 5
 * [The Ultimate Golden Release Upgrade Guide III](https://www.dcache.org/old/manuals/upgrade/upgrade-2.2-to-2.6.html) - How to get from 2.2 to 2.6.
 * [The Ultimate Golden Release Upgrade Guide II](https://www.dcache.org/old/manuals/upgrade-1.9.12-to-2.2.shtml) - How to get from 1.9.12 to 2.2.
 * [The Ultimate Golden Release Upgrade Guide I](https://www.dcache.org/old/manuals/2011/goettingen/upgradeguide/upgrade-guide.html) - How to get from 1.9.5 to 1.9.12.
-
-
-* [dcap lib client API](https://www.dcache.org/old/manuals/libdcap.shtml)
-* [dccp (dCache copy program)](https://www.dcache.org/old/manuals/dccp.shtml)
