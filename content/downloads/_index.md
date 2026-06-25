@@ -12,6 +12,8 @@ Key fingerprint: 5244 E542 ACB0 1347 D8E0 3DA1 3B97 732D 3321 DE4C
 `
 
 ## Binary packages
+- [v12.0.x](release-12-0/)
+    Feature Release
 - [v11.2.x](release-11-2/)
     Latest Golden Release
 - [v11.1.x](release-11-1/)
