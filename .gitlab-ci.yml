@@ -9,5 +9,21 @@ Deploy dCache.ORG pages:
     - hugo
     - www.dcache.org
   script:
-    - git submodule update --init --recursive
-    - /usr/local/bin/hugo -b https://dcache.org -d /data/www/dcache.org/
+    - echo "===== ENVIRONMENT INFO ====="                                                                                 
+    - whoami                                                                                                              
+    - id                                                                                                                  
+    - pwd                                                                                                                 
+    - df -h                                                                                                               
+    - echo "===== TARGET DIR PERMISSIONS ====="                                                                           
+    - ls -la /data/www/ | grep dcache                                                                                     
+    - ls -la /data/www/dcache.org/ 2>&1 || echo "Directory does not exist"                                                
+    - stat /data/www/dcache.org/ 2>&1 || echo "Stat failed"                                                               
+    - echo "===== SUBMODULE STATUS ====="                                                                                 
+    - git submodule status                                                                                                
+    - echo "===== THEME INITIALIZATION ====="                                                                             
+    - git submodule update --init --recursive                                                                             
+    - ls -la themes/mainroad/                                                                                             
+    - echo "===== SHORTCODE VERIFICATION ====="                                                                           
+    - ls -la layouts/shortcodes/ | grep releases-12-0                                                                     
+    - echo "===== HUGO BUILD ATTEMPT ====="                                                                               
+    - /usr/local/bin/hugo -b https://dcache.org -d /data/www/dcache.org/ -v
