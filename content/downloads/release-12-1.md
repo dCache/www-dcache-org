@@ -9,8 +9,7 @@ dCache 12.1 is a Feature Release introducing following highlights:
 #### Incompatibilities
 - Files' last access time is enabled by default.
 - The `systemd` services are now started with even more restrictions.
-
-_Starting with dcache 10.1.0 Java 17 is required for runtime_
+- Java 21 is now required. Starting with dCache 12.1, the minimum supported Java version is 21. Before upgrading, install a Java 21 (or newer, up to 25) runtime.
 
 {{< release-table >}}
 
