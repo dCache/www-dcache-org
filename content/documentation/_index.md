@@ -9,6 +9,8 @@ weight: 5
 
 * [Installation and Getting started Tutorial for dCache](https://github.com/dCache/dcache/blob/master/docs/TheBook/src/main/markdown/dcache-minimal-installation.md)
 * The Book - A general guide for administrators
+    * [The Book v12.1](https://www.dcache.org/documentation/Book-12.1)
+    * [The Book v12.0](https://www.dcache.org/documentation/Book-12.0)
     * [The Book v11.2](https://www.dcache.org/documentation/Book-11.2)
     * [The Book v11.1](https://www.dcache.org/documentation/Book-11.1)
     * [The Book v11.0](https://www.dcache.org/documentation/Book-11.0)
@@ -21,6 +23,8 @@ weight: 5
     * [The Book v8.2](https://www.dcache.org/documentation/Book-8.2)
 
 * UserGuide - A guide for getting the most out of dCache.
+    * [User Guide v12.1](https://www.dcache.org/documentation/UserGuide-12.1/)
+    * [User Guide v12.0](https://www.dcache.org/documentation/UserGuide-12.0/)
     * [User Guide v11.2](https://www.dcache.org/documentation/UserGuide-11.2/)
     * [User Guide v11.1](https://www.dcache.org/documentation/UserGuide-11.1/)
     * [User Guide v11.0](https://www.dcache.org/documentation/UserGuide-11.0/)
